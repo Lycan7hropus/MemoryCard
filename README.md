@@ -1,5 +1,5 @@
 # MemoryCard
- Classic memory game, created with .NET framework and C++/CLI.  The object of the game is to turn over pairs of matching cards.
+ Classic memory game, created with Windows Forms and C++/CLI.  The object of the game is to turn over pairs of matching cards.
 To watch gamplay check this link: https://youtu.be/0cguI6jn27s 
 <br>
 <br> 
